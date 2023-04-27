@@ -1,0 +1,25 @@
+===============
+SISWA
+================
+
+- SISWA
+  localhost/apippdb/?type=siswa&api_key=xNJ0Jsa7Mv9DLHnILFthJgpUiCA2WQKy
+- GET SISWA
+  localhost/apippdb/?type=getsiswa&uid=17&api_key=xNJ0Jsa7Mv9DLHnILFthJgpUiCA2WQKy
+
+
+===============
+USER
+================
+- LIMIT USER
+  localhost/apippdb/?type=user&api_key=xNJ0Jsa7Mv9DLHnILFthJgpUiCA2WQKy
+- PAGING USER
+  localhost/apippdb/?type=paging_user&api_key=xNJ0Jsa7Mv9DLHnILFthJgpUiCA2WQKy
+
+===============
+KELAS
+================
+- Daftar Kelas
+  localhost/apippdb/?type=kelas&api_key=xNJ0Jsa7Mv9DLHnILFthJgpUiCA2WQKy
+- Daftar Siswa PerKelas
+  localhost/apippdb/?type=siswa_kelas&uid=12&api_key=xNJ0Jsa7Mv9DLHnILFthJgpUiCA2WQKy
